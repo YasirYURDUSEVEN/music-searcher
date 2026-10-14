@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "İz Ara | Açık Müzik Arşivi",
+  "short_name": "İz Ara",
+  "description": "Açık lisanslı müzik ve nota arşivi arama aracı.",
+  "lang": "tr-TR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f5f1",
+  "theme_color": "#176d4a",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
